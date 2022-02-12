@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/promaster763/testjenkins/issues"
   },
-  "homepage": "https://github.com/promaster763/testjenkins#readme"
+  "homepage": "https://github.com/promaster763/testjenkins#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.17.2"
+  }
 }
